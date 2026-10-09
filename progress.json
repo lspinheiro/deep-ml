@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:24:58.586Z",
+  "generated_at": "2026-10-09T05:09:07.411Z",
   "items": {
     "math:32": {
       "kind": "math",
@@ -33,6 +33,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-06T20:24:56.064Z",
       "last_pushed_at": "2026-10-06T20:24:56.064Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-10-09T05:09:06.529Z",
+      "last_pushed_at": "2026-10-09T05:09:06.529Z"
     }
   }
 }
